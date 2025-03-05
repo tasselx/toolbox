@@ -6,6 +6,7 @@ export default defineConfig({
       input: {
         main: 'index.html',
         md5Modifier: 'md5-modifier.html',
+        baijaxingCipher: 'baijaxing-cipher.html',
       },
     },
   },
